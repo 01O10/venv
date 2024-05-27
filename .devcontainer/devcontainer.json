@@ -1,0 +1,9 @@
+{
+    "name": "venv",
+    "image": "timabg/venv",
+    "workspaceFolder": "/app",
+    "extensions": [
+        "ms-python.python",
+        "ms-azuretools.vscode-docker"
+    ],
+}

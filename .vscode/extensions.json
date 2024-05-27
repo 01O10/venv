@@ -1,0 +1,46 @@
+{
+    "recommendations": [
+      // Python-related extensions
+      "ms-python.python",               // Microsoft Python extension
+      "ms-toolsai.jupyter",             // Jupyter notebook support
+      "ms-python.vscode-pylance",       // Pylance (Python language server)
+      "visualstudioexptteam.vscodeintellicode",  // IntelliCode for AI-assisted development
+      "charliermarsh.ruff",             // Ruff - Fast Python linter
+  
+      // Git and GitHub-related extensions
+      "eamodio.gitlens",                // GitLens — Git supercharged
+      "donjayamanne.githistory",        // Git History
+      "github.vscode-pull-request-github",  // GitHub Pull Requests and Issues
+      "github.vscode-github-actions",
+      "bierner.github-markdown-preview",
+
+      "mhutchie.git-graph",             // Git Graph
+  
+      // R-related extensions
+      "ikuyadeu.r-pack",                     // R language support
+      "reditorsupport.r",           // R LSP Client for better R language support
+  
+      // Quarto-related extensions
+      "quarto.quarto",              // Quarto extension
+  
+      // HTML, PDF, and Markdown preview extensions
+      "yzhang.markdown-all-in-one",     // All-in-one Markdown support
+      "DavidAnson.vscode-markdownlint", // Markdown linter
+      "shd101wyy.markdown-preview-enhanced", // Enhanced Markdown preview
+      "george-alisson.html-preview-vscode",      // HTML preview
+      "tomoki1207.pdf",                 // PDF preview
+  
+      // JSON formatting extension
+      "esbenp.prettier-vscode",         // Prettier - Code formatter
+      "richie5um2.vscode-sort-json",    // Sort JSON objects
+  
+      // CSV file viewer
+      "mechatroner.rainbow-csv",        // Rainbow CSV
+  
+      // Other useful extensions
+      "ms-vscode-remote.remote-containers", // Development Containers
+      "ms-vscode-remote.remote-ssh",        // Remote - SSH
+      "ms-vscode-remote.remote-wsl"         // Remote - WSL
+    ]
+  }
+  
